@@ -1,0 +1,128 @@
+body {
+  background-color:#000000; !important;
+  
+}
+a {
+  color:#ffffff !important;
+}
+.arrowdown {
+  color: #ffffff !important;
+  text-align:center;
+  font-size: 25px;
+  padding: 70px 20px 0px;
+}
+.row {
+  padding:50px;
+}
+#navbar #nav-box #nav-welcome {
+  text-align: right;
+  font-family: font-family: 'Lora', serif;
+  color:#ffffff; !important;
+   background-color:#000000;
+  
+}
+
+.nav-welcome {
+  padding: 15px !important;
+  
+}
+
+#container-fluid {
+  background-color:#000000;
+}
+
+.frontname {
+  vertical-align:middle;
+  padding-top: 180px;
+  padding-bottom: 30px;
+  margin-bottom: 100px;
+}
+
+#projects {
+  text-align: center;
+  font-family: 'Lora', serif;
+}
+
+h1 {
+ font-family: 'Fira Sans', sans-serif;
+  color: #ffffff;
+  font-size:200px !important;
+  text-align: center;
+  animation-timing-function: ease-in;
+}
+
+#aboutme, #contact h2 {
+ font-family: 'Fira Sans', sans-serif;
+  color: #ffffff;
+  font-size: 50px !important;
+  text-align: center;
+  padding: 50px 10px 100px;
+}
+h5 {
+  font-size: 13px;
+  text-align:center;
+  color:#ffffff;
+font-family: 'Fira Sans', sans-serif;
+  font-weight: bolder;
+}
+
+h6 {
+  color:#aba7a7;
+  text-align:center;
+}
+
+.frontdescription{
+  padding:20px 20px 50px;
+}
+
+ p {
+ font-family: 'Fira Sans', sans-serif;
+  color: #ffffff; 
+}
+
+.name {
+  padding 20px;
+}
+
+.aboutme {
+  
+}
+
+#img {
+  text-align:center;
+ 
+  width:1200;
+  height:480;
+}
+
+#contact{
+  text-align:center;
+}
+
+#bs-example {
+ font-size: 13px;
+}
+
+.col-md-4 { 
+  text-align:center;
+  color: #000000;
+  border: #000000 solid 2px;
+  border-radius: 50px;
+  color:#000000;
+  
+}
+
+.col-md-12 {
+  padding:30px;
+  vertical-align: middle;
+  margin:20px;
+}
+
+.contact {
+  font-family: 'Cinzel', serif;
+}
+
+.profile-link{
+  font-family: 'Cinzel', serif;
+  color:#000000;
+}
